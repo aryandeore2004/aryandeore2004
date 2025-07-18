@@ -20,11 +20,15 @@ Computer Engineering graduate and Web Developer with proven experience in design
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
 ![Npm](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm)
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=springboot)
+![Maven](https://img.shields.io/badge/-Maven-000000?style=flat&logo=apachemaven)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visualstudiocode)
+![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat&logo=numpy) <br />
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 [![Portfolio](https://img.shields.io/badge/-Porfolio-000?style=flat&logo=🔭&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-deore-9a92b2250/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aryandeore2004@gmail.com)
-
-
