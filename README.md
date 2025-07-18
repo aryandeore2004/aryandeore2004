@@ -2,10 +2,10 @@
 <h2 align="center">Tech Enthusiast – Web Dev + AI/ML</h2>
 
 ## :sassy_man: About me
-I am a Computer Engineering student at Savitribai Phule Pune University, Maharashtra. Passionate about learning, I enjoy exploring new technologies and applying them to solve real-world problems. Currently, I am focused on Web Development while strengthening my skills in Data Structures and Algorithms.
+Computer Engineering graduate and Web Developer with proven experience in designing, developing, and deploying robust web applications. Skilled in both frontend and backend technologies, including HTML5, CSS3, JavaScript, Java, Spring Boot, React.js, Node.js, and Python. Passionate about building intelligent and scalable solutions by integrating Artificial Intelligence (AI) and Machine Learning (ML) into modern web applications to enhance functionality, automation, and user experience
 
 
-- 🌱 I’m currently learning **FULL STACK WEB DEVELOPMENT**
+
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/aryan-deore-9a92b2250/)
 
