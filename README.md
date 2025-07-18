@@ -1,5 +1,5 @@
 <h1 align="center">Hey , I am Aryan Deore <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2 align="center">Front End Developer</h2>
+<h2 align="center">Tech Enthusiast – Web Dev + AI/ML</h2>
 
 ## :sassy_man: About me
 I am a Computer Engineering student at Savitribai Phule Pune University, Maharashtra. Passionate about learning, I enjoy exploring new technologies and applying them to solve real-world problems. Currently, I am focused on Web Development while strengthening my skills in Data Structures and Algorithms.
