@@ -1,13 +1,12 @@
 <h1 align="center">Hey , I am Aryan Deore <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h2 align="center">Tech Enthusiast – Web Dev + AI/ML</h2>
 
+
 ## :sassy_man: About me
-Computer Engineering graduate and Web Developer with proven experience in designing, developing, and deploying robust web applications. Skilled in both frontend and backend technologies, including HTML5, CSS3, JavaScript, Java, Spring Boot, React.js, Node.js, and Python. Passionate about building intelligent and scalable solutions by integrating Artificial Intelligence (AI) and Machine Learning (ML) into modern web applications to enhance functionality, automation, and user experience
-
-
-
+Computer Engineering graduate and **Web Developer** with proven experience in designing, developing, and deploying robust web applications. Skilled in both frontend and backend technologies, including HTML5, CSS3, JavaScript, Java, Spring Boot, React.js, Node.js, and Python. Passionate about building intelligent and scalable solutions by integrating **Artificial Intelligence (AI)** and **Machine Learning (ML)** into modern web applications to enhance functionality, automation, and user experience.
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/aryan-deore-9a92b2250/)
+
 
 
 
