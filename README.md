@@ -24,12 +24,18 @@ Computer Engineering graduate and **Web Developer** with proven experience in de
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visualstudiocode)
 ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat&logo=numpy) <br />
+![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat&logo=numpy)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=flat&logo=seaborn)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=plotly)
+
+
+<br />
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 [![Portfolio](https://img.shields.io/badge/-Porfolio-000?style=flat&logo=🔭&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-deore-9a92b2250/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aryandeore2004@gmail.com)
+
 
 
 
