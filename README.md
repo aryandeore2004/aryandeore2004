@@ -12,6 +12,7 @@ Computer Engineering graduate and **Web Developer** with proven experience in de
 
 ## 👉 Languages and Tools
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=springboot)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 
@@ -37,6 +38,7 @@ Computer Engineering graduate and **Web Developer** with proven experience in de
 [![Portfolio](https://img.shields.io/badge/-Porfolio-000?style=flat&logo=🔭&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-deore-9a92b2250/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aryandeore2004@gmail.com)
+
 
 
 
